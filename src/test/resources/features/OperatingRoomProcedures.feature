@@ -1,4 +1,5 @@
 @OperatingRoomProcedures
+@Regression
 Feature: Operating Room Procedures
 
   Background:
